@@ -61,6 +61,15 @@ A simple pull should be enough.
 ```sh
 $ git pull
 ```
+
+## Maintainers
+
+Rémi Monthiller - [@rmonthil](https://gitlab.com/rmonthil) - remi.monthiller@gmail.com
+
+## Contributing
+
+Feel free to dive in! [Open an issue](https://github.com/rmonthil/c0pep0d/issues/new) or submit PRs.
+
 ## License
 
 [MIT © Centrale Marseille, Rémi MONTHILLER.](./LICENSE)
